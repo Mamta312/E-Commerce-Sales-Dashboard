@@ -36,3 +36,4 @@ This dashboard empowers to:
 
 Gain insights into customer behavior and buying patterns.
 Identify top-performing products and optimize inventory management.
+<br>
